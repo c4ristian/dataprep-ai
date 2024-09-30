@@ -1,0 +1,9 @@
+# YAML for setting up a conda environment
+name: dataprep-ai
+channels:
+#  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - python>=3.12

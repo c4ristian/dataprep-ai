@@ -1,0 +1,1 @@
+This folder contains data used in the course. The primary dataset comprises global development indicators. You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/kaggle/world-development-indicators). Additional files are crawled from the internet when executing the scripts/notebooks of this course. 
