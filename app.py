@@ -1,5 +1,9 @@
-from flask import Flask, request, jsonify
+"""
+This script creates a Flask application that provides an API endpoint to retrieve GDP data for a specific country.
+"""
 import sqlite3
+from flask import Flask, request, jsonify
+
 
 app = Flask(__name__)
 
