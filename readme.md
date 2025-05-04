@@ -1,7 +1,8 @@
 # Solving Data Preparation Tasks with AI
 
 ## What is it?
-This project contains files used in the course *Solving Data Preparation Tasks with AI*.
+This project contains files used in the course 
+[Solving Data Preparation Tasks with AI](https://www.oreilly.com/videos/solving-data-preparation/0642572055905/).
 
 ## Where to get it
 The source code is currently hosted on GitHub at:
@@ -28,3 +29,7 @@ jupyter notebook --notebook-dir="./notebooks"
 
 ## License
 [Apache 2.0](LICENSE.txt)
+
+
+## Contact
+[christian.koch@th-nuernberg.de](mailto:christian.koch@th-nuernberg.de)
